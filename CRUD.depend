@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1737030403 source:c:\users\hp\desktop\glsid1\algo\crud\fichier.c
+	<stdio.h>
+	<stdlib.h>
+	"fichier.h"
+
+1737028701 c:\users\hp\desktop\glsid1\algo\crud\fichier.h
+
+1737028701 source:c:\users\hp\desktop\glsid1\algo\crud\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fichier.h"
+
